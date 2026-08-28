@@ -41,7 +41,7 @@ camera hook.
    folder (next to `RDR.exe`).
 3. Launch the game.
 
-4. If the crash Edit the RedHook.ini [DirectXHook]
+4. If the game crash Edit the RedHook.ini [DirectXHook]
 ; Set this to true if you are experiencing crashes or other issues (WARNING: This will completely disable ingame console UI and some other rendering features)
 Disabled=true
 

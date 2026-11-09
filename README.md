@@ -24,3 +24,6 @@ Disabled=true
 -Enable VSYNC 
 -Disable Motion Blur
 -Disable DLSS
+
+## Support
+https://ko-fi.com/mikenx95

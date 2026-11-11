@@ -7,17 +7,11 @@ The mod can also add real geometric stereo 3D, layered on top of (or fully
 independent from) head tracking — same method as the companion document
 
 
-## Install
+### 📦 Installation
 
-1. Install **RedHook** (ScriptHook for RDR1) into your game folder — the folder
-   that contains `RDR.exe`. RedHook:https://www.nexusmods.com/reddeadredemption/mods/192
-2. Copy **`RDR-HeadTracking.red`** and **`HeadTracking.ini`** into that same
-   folder (next to `RDR.exe`).
-3. Launch the game.
-
-4. If the game crash Edit the RedHook.ini [DirectXHook]
-; Set this to true if you are experiencing crashes or other issues (WARNING: This will completely disable ingame console UI and some other rendering features)
-Disabled=true
+1. Download and extract the latest release archive (containing `dinput8.dll` `config.ini` and `leiasr_shim.dll`).
+2. Place `dinput8.dll` and  `config.ini` directly into your main game directory right next to `game.exe`.
+3. If you are using a LeiaSR display, place `leiasr_shim.dll` into the same directory right next to `game.exe`, then select output mode **7**.
 
 ## Settings
 
